@@ -409,6 +409,7 @@ spring.graphql.graphiql.enabled=true
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/fcd7238c-d366-48ad-bc3d-30a819272a0a)
 
+
 + Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` les détails du compte qui a l'id `20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` va s'afficher
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c8e4b75c-181d-4eb7-bfb2-a48712d85601)
