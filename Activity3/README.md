@@ -9,7 +9,7 @@ Créer une application basée sur une architecture micro-service qui permet de g
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d26636d1-ee5b-44ca-8017-fac4d9f207b0)
 
 
-### Customer service 
+### *** Customer service ***
 ####  Les entités JPA 
   + La classe Customer
 ```java
@@ -81,7 +81,7 @@ management.endpoints.web.exposure.include=*
 management.endpoint.health.show-details=always
 ```
 
-### Inventory service 
+### *** Inventory service ***
 ####  Les entités JPA 
   + La classe Product
 ```java
@@ -139,7 +139,7 @@ spring.cloud.discovery.enabled=true
 #management.endpoints.web.exposure.include=*
 ```
 
-### Gateway
+### *** Gateway ***
 ### La classe Main
 - La classe GatewayApplication
 ```java
@@ -186,7 +186,7 @@ spring:
 #          predicates:
 #            - Path= /products/**
 ```
-### Discovery service 
+### *** Discovery service ***
 ### La classe Main
 - La classe DiscoveryServiceApplication
 ```java
@@ -207,7 +207,7 @@ eureka.client.fetch-registry=false
 eureka.client.register-with-eureka=false
 ```
 
-### Billing service 
+### *** Billing service *** 
 ####  Les entités JPA 
   + La classe Bill
 ```java
