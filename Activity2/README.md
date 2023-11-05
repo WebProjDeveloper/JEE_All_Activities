@@ -407,14 +407,142 @@ spring.graphql.graphiql.enabled=true
 ### La partie Test
 Lorsqu'on tape ce lien `localhost:8081/bankAccounts` la liste des comptes va s'afficher
 
-<img width="712" alt="Capture" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/8e0a5dcb-b9e4-4f9c-b36a-6381b3cf473a">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/fcd7238c-d366-48ad-bc3d-30a819272a0a)
 
-- Swagger
+Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` les détails du compte qui a l'id `20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` va s'afficher
 
-<img width="949" alt="Screenshot 2023-10-24 153732" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/1bbb53eb-ba38-4704-9657-02c5c6502e25">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c8e4b75c-181d-4eb7-bfb2-a48712d85601)
 
-- Insomnia
-- GraphQL
+
+#### Swagger
+
+<img width="946" alt="image" src="https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/210ee44d-2cee-4ed4-8955-a12acfabeef3">
+
+#### Insomnia
+  + Lorsqu'on execute la requete de type GET  `http://localhost:8081/bankAccounts` la liste des comptes va s'afficher ->
+```java
+[
+	{
+		"id": "391b8a90-77cf-4d5b-aa29-c8bb40198451",
+		"createdAt": "2023-10-19T08:47:51.196+00:00",
+		"balance": 27840.39820760306,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	},
+	{
+		"id": "798a531e-0729-4373-aaf4-fd257d94ec9e",
+		"createdAt": "2023-10-19T08:47:51.565+00:00",
+		"balance": 52524.676682105935,
+		"currency": "MAD",
+		"type": "CURRENT_ACCOUNT"
+	},
+	{
+		"id": "5dbccb75-9911-46ec-b501-8310a0a1ed4f",
+		"createdAt": "2023-10-19T08:47:51.571+00:00",
+		"balance": 72275.31887672379,
+		"currency": "MAD",
+		"type": "CURRENT_ACCOUNT"
+	},
+	{
+		"id": "8cce5d87-fe24-42da-9346-1f152434e840",
+		"createdAt": "2023-10-19T08:47:51.576+00:00",
+		"balance": 44979.00787674624,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	},
+	{
+		"id": "67cdb766-cda4-45bf-af06-4919cc31c22d",
+		"createdAt": "2023-10-19T08:47:51.581+00:00",
+		"balance": 41469.35967724123,
+		"currency": "MAD",
+		"type": "CURRENT_ACCOUNT"
+	},
+	{
+		"id": "349b0168-4b62-4461-b525-a910b556c60d",
+		"createdAt": "2023-10-19T08:47:51.587+00:00",
+		"balance": 53160.2868047774,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	},
+	{
+		"id": "1b8989ca-4964-4793-b2b4-9a8b315d19f5",
+		"createdAt": "2023-10-19T08:47:51.591+00:00",
+		"balance": 17593.301092202535,
+		"currency": "MAD",
+		"type": "CURRENT_ACCOUNT"
+	},
+	{
+		"id": "4b98a14a-d92b-48c6-b9f1-14102dac9caf",
+		"createdAt": "2023-10-19T08:47:51.596+00:00",
+		"balance": 17166.73153338878,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	},
+	{
+		"id": "1de8a980-7960-452f-b2d2-cd8115dd0707",
+		"createdAt": "2023-10-19T08:47:51.601+00:00",
+		"balance": 34869.58255487649,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	},
+	{
+		"id": "b6fd4505-a530-429e-b2d8-43836167a904",
+		"createdAt": "2023-10-19T08:47:51.607+00:00",
+		"balance": 77200.80108933209,
+		"currency": "MAD",
+		"type": "SAVING_ACCOUNT"
+	}
+]
+```
+
++ Lorsqu'on execute la requete de type GET `http://localhost:8081/bankAccounts/ccc3336b-de0c-4db7-a956-4ec83df51cdf` ->  
+```java
+{
+	"id": "ccc3336b-de0c-4db7-a956-4ec83df51cdf",
+	"createdAt": null,
+	"balance": 10000.0,
+	"currency": "USD",
+	"type": "SAVING_ACCOUNT"
+}
+```
+
+Lorsqu'on execute la requete de type POST `http://localhost:8081/bankAccounts` et on saisit ça au niveau de partie body ->
+```java
+{
+	"balance" : 10000,
+	"type" : "SAVING_ACCOUNT",
+	"currency" : "EUR"
+}
+```
+Il affichera ça ->
+```java
+{
+	"id": "ccc3336b-de0c-4db7-a956-4ec83df51cdf",
+	"createdAt": null,
+	"balance": 10000.0,
+	"currency": "EUR",
+	"type": "SAVING_ACCOUNT"
+}
+```
+
+Lorsqu'on execute la requete de type PUT `http://localhost:8081/bankAccounts/ccc3336b-de0c-4db7-a956-4ec83df51cdf` et on saisit ça au niveau de partie body ->
+```java
+{
+	"currency" : "USD"
+}
+```
+Il affichera ça ->
+```java
+{
+	"id": "ccc3336b-de0c-4db7-a956-4ec83df51cdf",
+	"createdAt": null,
+	"balance": 10000.0,
+	"currency": "USD",
+	"type": "SAVING_ACCOUNT"
+}
+```
+
+#### GraphQL
 Pour récuperer la liste des comptes :
 ```java
 query {
@@ -457,4 +585,12 @@ mutation ($id : String, $t : String, $b : Float, $c : String) {
 ```java
 {"t" : "CURRENT_ACCOUNT", "b" : 5000, "c" : "MAD", "id":"6f6534a5-b70f-4501-bde2-299755b60256"}
 ```
+
+### H2 Console
+- La table customer
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/444912df-7c53-4168-a097-08774e739b9d)
+
+- La table bank account
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/f4710724-9ab5-4681-b89a-661aa4ada4c3)
 
