@@ -1,4 +1,4 @@
-# Activity 1 : Développement d'un Web service SOAP, WSDL avec JAXWS
+# Activity 1 : 
 
 ### Structure du projet ws41 : 
 
