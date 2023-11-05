@@ -405,11 +405,11 @@ spring.graphql.graphiql.enabled=true
 	</dependencies>
 ```
 ### La partie Test
-Lorsqu'on tape ce lien `localhost:8081/bankAccounts` la liste des comptes va s'afficher
++ Lorsqu'on tape ce lien `localhost:8081/bankAccounts` la liste des comptes va s'afficher
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/fcd7238c-d366-48ad-bc3d-30a819272a0a)
 
-Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` les détails du compte qui a l'id `20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` va s'afficher
++ Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` les détails du compte qui a l'id `20a4650d-d9c5-4352-b3df-b7eb2fe16aa8` va s'afficher
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c8e4b75c-181d-4eb7-bfb2-a48712d85601)
 
@@ -419,7 +419,7 @@ Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb
 <img width="946" alt="image" src="https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/210ee44d-2cee-4ed4-8955-a12acfabeef3">
 
 #### Insomnia
-  + Lorsqu'on execute la requete de type GET  `http://localhost:8081/bankAccounts` la liste des comptes va s'afficher ->
++ Lorsqu'on execute la requete de type GET  `http://localhost:8081/bankAccounts` la liste des comptes va s'afficher ->
 ```java
 [
 	{
@@ -506,7 +506,7 @@ Lorsqu'on tape ce lien `localhost:8081/bankAccounts/20a4650d-d9c5-4352-b3df-b7eb
 }
 ```
 
-Lorsqu'on execute la requete de type POST `http://localhost:8081/bankAccounts` et on saisit ça au niveau de partie body ->
++ Lorsqu'on execute la requete de type POST `http://localhost:8081/bankAccounts` et on saisit ça au niveau de la partie body ->
 ```java
 {
 	"balance" : 10000,
@@ -525,7 +525,7 @@ Il affichera ça ->
 }
 ```
 
-Lorsqu'on execute la requete de type PUT `http://localhost:8081/bankAccounts/ccc3336b-de0c-4db7-a956-4ec83df51cdf` et on saisit ça au niveau de partie body ->
++ Lorsqu'on execute la requete de type PUT `http://localhost:8081/bankAccounts/ccc3336b-de0c-4db7-a956-4ec83df51cdf` et on saisit ça au niveau de la partie body ->
 ```java
 {
 	"currency" : "USD"
@@ -543,7 +543,7 @@ Il affichera ça ->
 ```
 
 #### GraphQL
-Pour récuperer la liste des comptes :
++ Pour récuperer la liste des comptes :
 ```java
 query {
   accountsList{
@@ -551,7 +551,7 @@ query {
   }
 }
 ```
-Pour ajouter un compte bancaire :
++ Pour ajouter un compte bancaire :
 ```java
 mutation ($t : String, $b : Float, $c : String) {
   addAccount(bankAccount : {
@@ -567,7 +567,7 @@ mutation ($t : String, $b : Float, $c : String) {
 ```java
 {"t" : "CURRENT_ACCOUNT", "b" : 98000, "c" : "MAD"}
 ```
-Pour modifier un compte bancaire :
++ Pour modifier un compte bancaire :
 ```java
 mutation ($id : String, $t : String, $b : Float, $c : String) {
   updateAccount(
@@ -588,7 +588,9 @@ mutation ($id : String, $t : String, $b : Float, $c : String) {
 
 ### H2 Console
 - La table customer
+
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/444912df-7c53-4168-a097-08774e739b9d)
+
 
 - La table bank account
 
