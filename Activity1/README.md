@@ -3,70 +3,85 @@
 ### Structure du projet ws41 : 
 
 
-<img width="192" alt="Capture" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/c352e064-30e8-46ae-9fc1-86133ebba596">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/41a0305d-c7bd-4c09-a589-f2b513add2a5)
+
 
 
 
 - Classe Compte :
 
-<img width="325" alt="Capture1" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/6e5efa15-8832-4a60-8857-0f43fc648ad5">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d47ece56-52f8-4790-91af-fc01f5bd6d27)
 
 
-<img width="584" alt="Capture2" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/9d3782ed-28af-41ba-890b-77440902db2c">
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0f00ac4c-e5cc-4101-b037-e2b9759797ce)
+
 
 
 - Classe BanqueService:
 
-<img width="580" alt="Capture3" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/6b07390d-00f3-470f-8973-605b157209ef">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/abb4619e-0309-4f8f-8a99-e83ff09a5696)
+
 
 
 - Classe main ServerJWS :
 
-<img width="510" alt="Capture4" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/6a1ea383-45fb-4e09-9e82-51cc31afe465">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/23de7118-53dd-496a-8874-500cf943a4c0)
+
 
 
 - Fichier de configuration pom.xml :
 
-<img width="703" alt="Capture5" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/68915ed8-a0e9-438f-957b-5bbff86a84c0">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e0fd83aa-e4ce-436e-a44b-582eb90cceb4)
+
 
 - Résultat :
 
-<img width="329" alt="Capture12" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/0c0f5478-1dbf-4f92-bb3f-58e2f4c4532e">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/b9cfd62b-4c1f-434d-98e2-775705aeddd1)
+
 
 
 ### Structure du projet client41 :
 
 
-<img width="234" alt="Capture6" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/af5be34c-7fb0-4046-9793-b2ed062b4b92">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a7b8c72b-b876-4a6c-8651-ce5193d36c3a)
+
 
 
 - Classe ClientWS :
 
   
-<img width="453" alt="Capture7" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/954042fb-fb62-4e4f-947b-0b546e404522">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e9a0fe5a-ba3d-42f6-8043-2f07029fbdb6)
+
 
 - Résultat :
 
-<img width="333" alt="Capture13" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/52f451ec-ccad-474c-950b-69b61c9dd8fe">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/631676a8-69f3-4fa5-af77-92312475ad2d)
+
 
 
 ### Les tests avec SOAPUI :
 #### Les projets sur soap :
 
-<img width="189" alt="Capture8" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/c567628d-af3a-4bdf-8cd8-73e072ae6967">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/977290ac-1b8b-44f9-96eb-e60f2862c975)
+
 
 - Le test de la 1ère méthode :
   
-<img width="665" alt="Capture9" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/daca11a3-468d-4dd1-8836-ba859f2c6108">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/1d2906bb-826a-4a24-ba1d-e950d19cf6ce)
+
 
 - Le test de la 2ème méthode :
 
-<img width="643" alt="Capture10" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/58048982-a3f5-45a5-b203-92f265226334">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/19dcb6e0-d53b-4057-a6f4-107be8d57100)
+
 
 - Le test de la 3ème méthode :
   
-<img width="624" alt="Capture11" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/71198753-b90e-4570-ad0a-41789dde1c93">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/f7f80260-9411-456d-8fed-f5ef97a43681)
+
 
 - Visualisation du fichier xml :
   
-<img width="940" alt="Capture14" src="https://github.com/WebProjDeveloper/Activities_Repos/assets/125798807/98d16052-200a-4a86-a77e-53fc5443fe15">
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3b8b1a48-0d97-4ee6-a6ed-c4085d723a27)
+
