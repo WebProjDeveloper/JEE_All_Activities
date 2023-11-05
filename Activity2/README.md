@@ -3,6 +3,12 @@
 ## Objectif de l'activité
 Création d'un micro service qui permet de gérer les comptes bancaires
 
+## Structure du projet
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e0f7c73a-340e-4d9c-aba1-28ff49058f6f)
+
+
+
 ### Les enums
 - L'enumeration AccountType
 ```java 
