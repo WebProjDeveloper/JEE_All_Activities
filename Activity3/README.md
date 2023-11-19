@@ -379,3 +379,37 @@ spring.h2.console.enabled=true
 ```
 
 ### Les tests
+
+- Test du micro service customer `http://localhost:9081/customers`
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a855fc64-b908-4933-85ff-e34a9e5b0f66)
+
+- Test du micro service customer `http://localhost:9081/customers/1`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/76b3acdc-42d7-4632-8872-cac20ed5cf2e)
+
+- Test du micro service customer `http://localhost:9081/actuator/health` 
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/372cd8b2-8976-4bc4-b068-058f56633716)
+
+- Test du micro service customer `http://localhost:9081/customers` 
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a444cfa1-fcd5-45f5-ac0e-3619958cca20)
+
+- Test du micro service customer `http://localhost:9081/customers` 
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/5e26a23f-a31d-498c-a0d4-7e5ff83ea3b6)
+
+- Test du micro service customer `http://localhost:9081/customers` 
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/2bf05284-909f-411e-bcc9-30c90e58c829)
+
+- Test du micro service customer `http://localhost:9081/customers` 
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/dd97956c-8262-45a5-8668-38fad14e5bbf)
+
+
+
+
+
+
