@@ -408,6 +408,13 @@ spring.h2.console.enabled=true
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/dd97956c-8262-45a5-8668-38fad14e5bbf)
 
+### H2 console
+
+- La table customer
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/6de7e36f-1581-4bcd-8b72-70ed476a1ca0)
+
+
 
 
 
