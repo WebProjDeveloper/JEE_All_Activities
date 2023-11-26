@@ -34,5 +34,10 @@ spring.application.name=config-service
 spring.cloud.config.server.git.uri=file:///C:/Users/hamid/Desktop/ecom-emsi/ecom-emsi/config-repo
 ```
 
+#### Tests
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/92ecafdf-ef11-4c44-8a5e-2c6b52ad4aa3)
+
+
 
 
