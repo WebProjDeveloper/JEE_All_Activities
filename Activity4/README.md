@@ -29,9 +29,11 @@ https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4/eco
 https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4/ecom-emsi/gateway-service
 
 + Le micro-service order
+  
 https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4/ecom-emsi/order-service
 
 + Le micro-service billing
+  
 https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4/ecom-emsi/billing
 
 
