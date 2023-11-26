@@ -16,6 +16,8 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3a9f2409-d9da-49e3-a8d3-14ee79a644d6)
 
+#### Les comptes rendus des micro-services
+
 + Le micro-service config
 https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4/ecom-emsi/config-service
 
