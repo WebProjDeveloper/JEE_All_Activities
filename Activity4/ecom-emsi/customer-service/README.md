@@ -119,6 +119,11 @@ spring.config.import=optional:configserver:http://localhost:8888
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0c3d3a46-f958-45df-855f-607d9a7b19bf)
 
+- H2 console (La table customer)
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ff1f8bf9-428f-440b-924a-6fd43cc279a4)
+
+
 
 
 
