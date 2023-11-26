@@ -7,6 +7,11 @@
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/009c06a9-d1c7-470b-9d75-f524c64a6faa)
 
+- Après le lancement du micro-service config
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/27959b42-edfb-4f71-b1a2-47422e4c1d6f)
+
+
 - Après le lancement de l'ensemble des services
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ea255f81-4fc2-4f89-af4c-db5093bfddac)
