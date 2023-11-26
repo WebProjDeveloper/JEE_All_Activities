@@ -66,3 +66,24 @@ spring.application.name=inventory-service
 spring.config.import=optional:configserver:http://localhost:8888
 ```
 
+#### Tests
++ Le service inventory est lancé avec succès sur consul
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0cdeb59c-4db7-4398-8b9d-6cce350dc4bc)
+
++ Pour voir la liste des produits, on tape `http://localhost:8082/products`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/7895c708-2ee3-4f62-8cea-0c9d4cab35ab)
+
++ Pour voir le 2ème produit, on tape `http://localhost:8081/products/2`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3ff0b464-e2ec-4cd4-a6f0-b6d594fa4ece)
+
++ H2 console (La table product)
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/fa39cb12-9270-4821-9711-8f848a268d53)
+
+
+
+
+
