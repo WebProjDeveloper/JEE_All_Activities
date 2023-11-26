@@ -34,7 +34,7 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
 ```
 
 #### Main
-+ La classe CustomerServiceApplication
++ La classe InventoryServiceApplication
 ```java
 @SpringBootApplication
 @EnableDiscoveryClient
