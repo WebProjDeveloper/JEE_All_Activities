@@ -1,6 +1,6 @@
 ## Report for the micro-service gateway
 
-#### Main
+#### Main  
 + La classe GatewayServiceApplication
 ```java
 @SpringBootApplication
@@ -10,7 +10,7 @@ public class GatewayServiceApplication {
 	}
 	@Bean
 	DiscoveryClientRouteDefinitionLocator dynamicRoutes(ReactiveDiscoveryClient rdc,
-														DiscoveryLocatorProperties dlp){
+                                                            DiscoveryLocatorProperties dlp){
 		return new DiscoveryClientRouteDefinitionLocator(rdc,dlp);
 	}
 }
