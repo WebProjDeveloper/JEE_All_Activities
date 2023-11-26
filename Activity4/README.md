@@ -17,6 +17,7 @@ Créer une application de e-commerce basée sur les micro services :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3a9f2409-d9da-49e3-a8d3-14ee79a644d6)
 
 ### L'execution
++ Pour lancer l'application --> sur votre `IDE`, accéder à votre répertoire du front-end `cd votre_rep` et tapez `ng serve`
 + Tapez `http://localhost:4200/products` ou cliquez sur `products` au niveau du menu de l'application pour voir l'ensemble des produits
   
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e56ad5c0-b5c7-4d6d-91f1-6b73bddd29d0)
