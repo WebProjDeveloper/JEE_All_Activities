@@ -73,3 +73,7 @@ spring.cloud.vault.scheme=http
 spring.cloud.vault.kv.enabled=true
 management.endpoints.web.exposure.include=*
 ```
+
+#### Tests
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/bf29554a-85af-442d-b0c4-795f6437e1d8)
+
