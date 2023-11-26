@@ -214,3 +214,24 @@ logging.level.org.sid.orderservice.services.InventoryRestClientService=debug
 feign.client.config.default.loggerLevel=full
 ```
 
+#### Tests
++ Le service order est lancé avec succès sur consul
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/23bcbe1d-d999-4525-bc6b-f4eb5a7120b7)
+
++ Pour voir la liste des ordres, on tape `http://localhost:8083/orders`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/1718e3c7-cc26-4a7d-b307-f4cde1f46f8e)
+
++ Pour voir le 1er order, on tape `http://localhost:8083/orders/1`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/be63d158-15b1-4cc1-9d59-d36315eb6d60)
+
++ Pour voir l'ensemble des produits du 1er ordre à partir de la gateway, on tape `http://localhost:9999/order-service/fullOrder/1`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/f9aac293-85e6-4b7e-b2e0-805ea84d2657)
+
+
+
+
+
