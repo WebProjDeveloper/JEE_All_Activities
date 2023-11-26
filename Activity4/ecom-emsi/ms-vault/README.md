@@ -70,3 +70,22 @@ spring.cloud.vault.kv.enabled=true
 spring.config.import=optional:consul:, vault:// 
 management.endpoints.web.exposure.include=*
 ```
+
+#### Tests
++ Pour lancer vault `vault server -dev`
++ Pour accéder au vault `http://127.0.0.1:8200`
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/1ac687e1-d4b1-4b49-997b-ada6c863e7d5)
+
++ Les secrets
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3336a1f8-2000-4c55-8c67-62aafe2c75bb)
+
++ Le secret billing-service
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/1d5a3063-0032-422a-8ab5-702478bf04bf)
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ef31611c-d39c-4d35-af5a-e429642e5a60)
+
+
+
+
