@@ -12,3 +12,27 @@
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ea255f81-4fc2-4f89-af4c-db5093bfddac)
 
 
+#### La classe main ConfigServiceApplication
+
+```java
+@SpringBootApplication
+@EnableConfigServer
+@EnableDiscoveryClient
+public class ConfigServiceApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(ConfigServiceApplication.class, args);
+	}
+}
+```
+
+
+#### Le fichier application.properties
+
+```java
+server.port=8888
+spring.application.name=config-service
+spring.cloud.config.server.git.uri=file:///C:/Users/hamid/Desktop/ecom-emsi/ecom-emsi/config-repo
+```
+
+
+
