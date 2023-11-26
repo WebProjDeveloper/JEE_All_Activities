@@ -43,6 +43,21 @@ spring.cloud.config.server.git.uri=file:///C:/Users/hamid/Desktop/ecom-emsi/ecom
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/92ecafdf-ef11-4c44-8a5e-2c6b52ad4aa3)
 
+- Par défaut
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/8cc8af77-ed47-4837-a776-b0a5372abe78)
+
+- En dev
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/7f32796a-a24d-49b2-99e5-0143733cf9ca)
+
+- En prod
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/aa27dad1-e602-49cc-a988-fba674bf86a8)
+
+
+
+
 
 
 
