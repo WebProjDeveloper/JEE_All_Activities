@@ -29,7 +29,7 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d81014bc-b5a8-41f4-b6c4-5275b13af9c4)
 
-+ Cliquez sur le button `Order Details` pour voir les deatils d'order
++ Cliquez sur le button `Order Details` pour voir les details d'order
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/439d8ba6-dc70-4388-a6d6-34633321a30e)
 
