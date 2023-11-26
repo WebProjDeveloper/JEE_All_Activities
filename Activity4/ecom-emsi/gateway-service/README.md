@@ -53,5 +53,10 @@ spring:
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/261753f6-a4a7-4fe6-ac3d-16b3fbedf74c)
 
++ Pour voir le 1er produit à partir de la gateway, on tape `http://localhost:9999/inventory-service/products/1`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/834ba162-15fb-481e-8db0-478c05794987)
+
+
 
 
