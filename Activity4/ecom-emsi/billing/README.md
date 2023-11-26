@@ -75,5 +75,11 @@ management.endpoints.web.exposure.include=*
 ```
 
 #### Tests
++ Le service billing est lancé avec succès sur consul
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3f2595e7-e256-4aec-8eab-3b89adfc8464)
+
++ Pour voir la config, on tape `http://localhost:8084/myConfig`
+
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/bf29554a-85af-442d-b0c4-795f6437e1d8)
 
