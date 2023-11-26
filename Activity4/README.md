@@ -16,6 +16,23 @@ Créer une application de e-commerce basée sur les micro services :
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3a9f2409-d9da-49e3-a8d3-14ee79a644d6)
 
+### L'execution
++ Tapez `http://localhost:4200/products` ou cliquez sur `products` au niveau du menu de l'application pour voir l'ensemble des produits
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e56ad5c0-b5c7-4d6d-91f1-6b73bddd29d0)
+
++ Tapez `http://localhost:4200/customers` ou cliquez sur `customers` au niveau du menu de l'application pour voir l'ensemble des customers
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/80be7717-95c9-418d-98f2-41f77b6ebad4)
+
++ Cliquez sur le button `Orders` pour voir les orders de chaque customer
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d81014bc-b5a8-41f4-b6c4-5275b13af9c4)
+
++ Cliquez sur le button `Order Details` pour voir les deatils d'order
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/439d8ba6-dc70-4388-a6d6-34633321a30e)
+
 ### Les comptes rendus des micro-services
 
 + Le micro-service config
