@@ -91,6 +91,10 @@ spring.config.import=optional:configserver:http://localhost:8888
 ```
 
 #### Tests 
++ Le service customer est lancé avec succès sur consul
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/4d232ae6-5aac-430c-b4a5-5a19bc13cf1d)
+
 - Par défaut
   
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/7405b7cb-db68-4acd-b259-0253a767d930)
@@ -102,6 +106,19 @@ spring.config.import=optional:configserver:http://localhost:8888
 - En prod
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/52ea5782-029e-44f8-a1ac-6c6d8d1ff5b0)
+
+- Pour voir la liste des customers, on tape `http://localhost:8081/customers`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/b73a1866-75e9-4770-b01b-96d3c3a29664)
+
+- Pour voir le 1er customer, on tape `http://localhost:8081/customers/1`
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0ab680c6-5968-48da-8dd8-d07e79f10539)
+
+- Sur la console
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0c3d3a46-f958-45df-855f-607d9a7b19bf)
+
 
 
 
