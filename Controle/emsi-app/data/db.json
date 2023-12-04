@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.BCN-Bd-tIk-3uVjFa2eGDxKOkwTEFFndv2k8mvSnxHw"
+       },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.Iq3HB7FlxfKhGTiZzl_OftBZO36dY6d8NWa8Bd5Gzuk"
+    },
+    {
+      "id": "housna",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSG91c25hIiwibGFzdG5hbWUiOiJBR0haRVIiLCJlbWFpbCI6ImhvdXNuYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.qHHnHR-thONnlidxCKUUmCqKCntvcfGnRNjT6876-1o"
+    }
+  ],
+  "products": [
+    {
+      "id": 5,
+      "name": "Smart 63",
+      "price": "4500",
+      "checked": true
+    },
+    {
+      "id": 15,
+      "name": "SmartWatch",
+      "price": "2500",
+      "checked": false
+    },
+    {
+      "id": 16,
+      "name": "Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "name": "TV",
+      "price": 8000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "Tablette",
+      "price": 3000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "AppelMobile 15",
+      "price": 20000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "Mobile Huawei ",
+      "price": 1200,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "Mobile Huawei ",
+      "price": 1200,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "Tablette",
+      "price": 3000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "Tablette",
+      "price": 3000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "TV",
+      "price": 8000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "TV",
+      "price": 8000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "TV Brand",
+      "price": 8000,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "id": 16,
+      "name": "Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "id": 16,
+      "name": "Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "id": 16,
+      "name": "Laptop",
+      "price": "6006",
+      "checked": true
+    },
+    {
+      "name": "Iphone 13",
+      "price": 0,
+      "checked": false,
+      "id": 17
+    },
+    {
+      "name": "Redmi 9",
+      "price": "1000",
+      "checked": false,
+      "id": 18
+    }
+  ]
+}
