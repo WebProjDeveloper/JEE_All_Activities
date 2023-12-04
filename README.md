@@ -21,5 +21,5 @@
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity5/README.md
 
 ## Controle : 
-- https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity4
-- https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity5
+- https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Controle
+- report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Controle/README.md
