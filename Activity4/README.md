@@ -1,4 +1,4 @@
-# Activity 4 : Report In Progress
+# Activity 4 :
  
 ## Objectif de l'activité
 Créer une application de e-commerce basée sur les micro services :
