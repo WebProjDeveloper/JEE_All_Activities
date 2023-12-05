@@ -15,6 +15,10 @@ L'application doit permettre de :
     - Faire l'authentification et protéger les routes
 ```
 
+- Structure de l'application Angular :
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/96d47d79-0b40-46ed-8971-759207d69265)
+
 - Le fichier de base de données db.json :
   
 ![image](https://github.com/HousnaAghzer/Aghzer-Housna-JEE/assets/123586109/db5bd028-458b-462f-96ce-f076d9a71037)
