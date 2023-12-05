@@ -29,8 +29,17 @@ L'application doit permettre de :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ce823704-206d-4a0f-8c0b-ef65c8746d94)
 
 
-
 ## Les résultats de l'exécution :
+
+- Tapez `http://localhost:8089/products` pour voir l'ensemble des produits
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/737f0d97-f003-419b-a2e6-b672b5ec9b0f)
+
+- Tapez `http://localhost:8089/users` pour voir l'ensemble des utilisateurs
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/bce5a8e3-3e35-48a6-a126-b9bd1b4ce8c2)
+
+
 #### Pour l'admin :
 - Login :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/de3f8489-9f31-4814-8d28-938358d1746a)
