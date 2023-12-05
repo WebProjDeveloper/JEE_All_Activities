@@ -19,6 +19,15 @@ L'application doit permettre de :
   
 ![image](https://github.com/HousnaAghzer/Aghzer-Housna-JEE/assets/123586109/db5bd028-458b-462f-96ce-f076d9a71037)
 
+#### Génération du token sur le site `jwt.io``.
+- Token pour le simple utilisateur :
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3d5b2d44-5474-440b-8278-4c83f7faaf14)
+
+- Token pour l'admin :
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ce823704-206d-4a0f-8c0b-ef65c8746d94)
+
+
+
 ## Les résultats de l'exécution :
 #### Pour l'admin :
 - Login :
