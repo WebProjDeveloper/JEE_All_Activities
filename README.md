@@ -1,4 +1,4 @@
-# JEE_All_Activities
+# JEE_All_Activities : Encadré par Mr Mohamed YOUSSFI
 
 ## Activity 1 : Développement d'un Web service SOAP, WSDL avec JAXWS
 - https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity1
