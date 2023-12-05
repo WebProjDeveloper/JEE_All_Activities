@@ -68,6 +68,12 @@ L'application doit permettre de :
 - Produit ajouté avec succès :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/6dfba4ab-965b-46ca-ae67-63c4c868b243)
 
+- La suppression d'un produit :
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/ee26a73f-a37f-4a90-98bb-f3938b78f025)
+
+- La modification des informations d'un produit :
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/b13436fa-eb65-4610-b073-b757bd47b2bc)
+
 
 #### Pour un simple utilisateur :
 - Login :
