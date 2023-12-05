@@ -119,7 +119,7 @@ L'application doit permettre de :
 - La recherche :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/64d8a61e-c326-40c6-8ffa-e03748984ea2)
 
-- Un simple utilisateur n'est pas autorisé à faire des manipulations comme l(ajout la modification et la suppression :
+- Un simple utilisateur n'est pas autorisé à faire des manipulations comme l'ajout, la modification et la suppression :
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a513ab43-63e9-4529-9a34-b11347cc4c21)
 
 
