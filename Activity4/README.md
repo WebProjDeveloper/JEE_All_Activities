@@ -1,4 +1,4 @@
-# Activity 4 :
+# Activity 4 : Architectures Micro-services avec Spring Cloud 
  
 ## Objectif de l'activité
 Créer une application de e-commerce basée sur les micro services :
