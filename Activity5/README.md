@@ -19,7 +19,7 @@ L'application doit permettre de :
   
 ![image](https://github.com/HousnaAghzer/Aghzer-Housna-JEE/assets/123586109/db5bd028-458b-462f-96ce-f076d9a71037)
 
-#### Génération du token sur le site `jwt.io``.
+#### Génération du token sur le site `jwt.io`.
 - Token pour le simple utilisateur :
   
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/3d5b2d44-5474-440b-8278-4c83f7faaf14)
