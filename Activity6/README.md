@@ -38,7 +38,7 @@
 ![Capture1](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/dde1f529-a087-408e-95e4-3b6562e63c39)
 
 
-- Accéder à `localhost:8082/publish/R1/blog` pour visualiser les informations sur le naviguateur :
+- Accéder à `localhost:8082/publish/R1/blog` pour visualiser les informations sur le navigateur :
   
 ![Capture2](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/11222db4-3b06-458b-8b2d-72dcd9767d83)
 
