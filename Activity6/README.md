@@ -16,7 +16,7 @@
 - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
 ```
 
-## Les résultats :
+## Part 1 :
 
 - Démarrer Kafka :
   
@@ -76,5 +76,17 @@
 - Le 3ème Kafka-console-consumer :
   
 ![Capture13](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/11f03861-4b8b-403f-811c-a34967577e55)
+
+
+## Part 3 : 
+
+- Tapez `localhost:8080/analytics` :
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/86b9769c-a3ab-4738-8682-70cb70e9e354)
+
+
+- Tapez `localhost:8080` :
+  
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e2fbcfb7-f0bf-4e62-8552-6a9461020437)
 
 
