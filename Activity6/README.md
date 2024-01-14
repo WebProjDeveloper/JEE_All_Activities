@@ -18,28 +18,63 @@
 
 ## Les résultats :
 
+- Démarrer Kafka :
+  
 ![Capture9](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/36ec3759-330b-42eb-8c40-6ea77a48f74d)
 
+
+- Démarrer Zookeeper :
+  
 ![Capture10](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/34edfb9e-0817-4ddf-8341-c80056a16a1a)
 
+
+- Lancer Kafka-console-producer et kafka-console-consumer :
+  
 ![Capture6](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/905ee285-d128-4acd-9558-e18b67caa373)
 
+
+- Tester le bon fonctionnement de la communication entre Kafka-console-producer et kafka-console-consumer :
+  
 ![Capture1](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/dde1f529-a087-408e-95e4-3b6562e63c39)
 
+
+- Accéder à `localhost:8082/publish/R1/blog` pour visualiser les informations sur le naviguateur :
+  
 ![Capture2](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/11222db4-3b06-458b-8b2d-72dcd9767d83)
 
+
+- Accéder à `localhost:8082/publish/R1/blog` et remarquer que la duration a été changée :
+    
 ![Capture3](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/143267da-0ad5-4b84-b875-3c7c8765a81f)
 
+
+- Pour accéder tapez `localhost:8082/publish/R1/contact` :
+  
 ![Capture4](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d905c234-6760-424a-a527-f53555df979e)
 
+
+- Pour accéder tapez `localhost:8082/publish/R1/contacts` :
+  
 ![Capture5](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/88776b3c-2e42-4b8d-911e-51bc0f0ceb9d)
 
+
+- Kafka-console-producer :
+  
 ![Capture11](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/d7130d7e-1e6c-4bc6-a249-f2c4f85e7114)
 
+
+- Le 1er Kafka-console-consumer :
+  
 ![Capture8](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/1ee99479-05fb-4a7c-968e-e82e19e4154f)
+
+
+- Le 2ème Kafka-console-consumer :
 
 ![Capture12](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0730675d-9707-4fef-90c2-9ce7d0491e30)
 
+
+- Le 3ème Kafka-console-consumer :
+  
 ![Capture13](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/11f03861-4b8b-403f-811c-a34967577e55)
 
 
