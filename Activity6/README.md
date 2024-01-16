@@ -77,6 +77,32 @@
   
 ![Capture13](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/11f03861-4b8b-403f-811c-a34967577e55)
 
+## Part 2 : 
+
+- Pour éxecuter le fichier, tapez la commande `docker-compose up` :
+  
+![c1](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a4620ffa-72ea-4ac6-b2c4-a4b613d5172e)
+
+
+- Tapez `docker ps` pour afficher les informations sur les conteneurs et leurs images :
+  
+![c2](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/79d10259-6d19-4cd5-813f-ba9dba0c8a3a)
+
+
+- Tester kafka-console-producer :
+  
+![c4](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/dc5d977c-0dc1-44dc-8d1a-5d1c44f65de9)
+
+
+- Tester kafka-console-consumer :
+  
+![c3](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/4612eb6e-38ef-41cd-8e5e-4d186d21e7b8)
+
+
+- La traçe :
+  
+![c5](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/5e6ea70a-75a0-4b0a-8a90-c88037fff6a6)
+
 
 ## Part 3 : 
 
