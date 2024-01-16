@@ -24,7 +24,7 @@
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Controle
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Controle/README.md
 
-## Activity 6 : In progress
+## Activity 6 : 
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity6
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity6/README.md
 
