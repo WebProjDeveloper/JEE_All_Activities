@@ -58,3 +58,22 @@ Développer et sécuriser une application basée sur les micro-services en utils
    - Frontend Angular
 ```
 #### Réalisation du travail : In progress
+
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/f1ff989e-8ff4-48aa-8164-5c54f4dd5a2e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
