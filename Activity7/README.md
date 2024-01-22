@@ -62,8 +62,10 @@ Développer et sécuriser une application basée sur les micro-services en utils
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/f1ff989e-8ff4-48aa-8164-5c54f4dd5a2e)
 
 
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c1272cf7-6c8c-4fb8-bb0f-235e7fe3cfc9)
 
 
+![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/fb484800-245c-4853-8712-0d39a7e06405)
 
 
 
