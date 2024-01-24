@@ -1,1 +1,1 @@
-Just to see the difference between Angular with modules an dwithout it
+Just to see the difference between Angular with modules and without it
