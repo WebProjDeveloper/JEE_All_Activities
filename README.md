@@ -28,6 +28,6 @@
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity6
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity6/README.md
 
-## Activity 7 :
+## Activity 7 : Sécurité Oauth2, OIDC, JWT, Keycloak
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity7
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity7/README.md
