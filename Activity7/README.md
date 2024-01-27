@@ -20,33 +20,39 @@
 ```
 
 ### Réalisation du travail :
-
+```java
 - Les clients qu'on a créé :
-  
+```
 ![6](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/9c3deb56-4213-4d12-8eec-82ed555d2dd6)
 
+```java
 - Les utilisateurs qu'on a créé :
-  
+```
 ![7](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/76aa966f-74d7-44b2-b7af-dcb031313dfb)
 
+```java
 - Les roles : 
-
+```
 ![8](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/0d885aa4-4920-440e-8e33-fc88055c96ee)
 
+```java
 - La realm :
-  
+```
 ![4](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c0c41903-ea96-46c3-82f6-dd4008ecba55)
 
+```java
 - Test de l'authentification avec le mot de passe :
-  
+```
 ![1](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/2b43857d-d2b3-4b52-a89c-fbd62e5e9fbc)
 
+```java
 - Test de l'authentification avec le Refresh Token :
-  
+``` 
 ![2](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/620707e8-12ae-45a9-a272-d9ca861488b8)
 
+```java
 - Test de l'authentification avec Client ID et Client Secret :
-  
+```
 ![3](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/75764ccf-2b4c-4053-b37e-5c601c2621d1)
 
 
