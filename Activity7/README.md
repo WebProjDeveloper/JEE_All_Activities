@@ -116,7 +116,7 @@ Développer et sécuriser une application basée sur les micro-services en utils
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/bfdcc7e4-d361-4f30-bf97-7bebe4374977)
 
-### Partie Front-End with Thymeleaf : 
+### Partie Frontend with thymeleaf : 
 
 ```java
 - La 1ère interface qui s'affiche, lorsqu'on tape dan sle navigateur localhost:8090
@@ -142,41 +142,56 @@ Développer et sécuriser une application basée sur les micro-services en utils
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/4bc8bc74-5916-4193-9329-0f3fecf1ae06)
 
 ```java
-- Si on veut se connecter avec google
+- Tapez localhost:8090/customers ou cliquez sur customers pour voir la liste des clients
 ```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/4c3bfe06-e708-4068-97d6-7cb13364cfd6)
 
+```java
+- Tapez localhost:8090/products ou cliquez sur products pour voir la liste des produits
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a52711b7-440e-480b-b993-1ef212588975)
 
-![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/660bc3a2-23d6-49f3-879b-ab5c8b21bfae)
-
-
-
-
+```java
+- Pour user1 qui a le role d'un simple utilisateur, il n'est pas autorisé à voir la liste des clients
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/4da2e9f3-1d3a-4516-9b43-7e13f2091985)
 
-
+```java
+- Essayons de créer un utilisateur avant de configurer la politique de mot de passe
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c5615256-bf25-4ee6-aefc-1db8755423d9)
 
+```java
+- Tapez localhost:8090/auth
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e294466d-aa35-47ef-8770-e14b5c5bf0d1)
 
-
+```java
+- Configurons la politique de mot de passe
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a5f2e47f-22b0-45a0-91eb-91efac94f7d4)
 
+```java
+- Remarquons que maintenant on doit respecter la politique de mot de passe qu'on a ajouté
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/a6bdb9b8-d408-40de-b603-2176838fce93)
 
-
-
-
+### Partie Frontend with angular : 
+```java
+- Le client pour la partie angular
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/5c20451e-5820-4b1f-9a57-c21ae0dbbe7a)
 
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/c791fb8b-e00a-49d7-96e6-755c808f8101)
 
-
-
-
+```java
+- Tapez localhost:4200/customers ou cliquez sur customers pour voir la liste des clients
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/61a9ac0b-411e-4d57-b653-fd77ede1a65f)
 
+```java
+- Tapez localhost:4200/products ou cliquez sur products pour voir la liste des produits
+```
 ![image](https://github.com/WebProjDeveloper/JEE_All_Activities/assets/125798807/e15d15fa-c6f4-48d1-b88f-825cf3d599e7)
 
 
