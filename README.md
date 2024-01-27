@@ -28,6 +28,6 @@
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity6
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity6/README.md
 
-## Activity 7 : In progress
+## Activity 7 :
 - https://github.com/WebProjDeveloper/JEE_All_Activities/tree/master/Activity7
 - report : https://github.com/WebProjDeveloper/JEE_All_Activities/blob/master/Activity7/README.md
